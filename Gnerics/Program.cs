@@ -7,9 +7,9 @@ namespace Gnerics
         
         static void Main(string[] args)
         {
-            MyLıst<int> isimler = new MyLıst<int>();
+            MyLıst<string> isimler = new MyLıst<string>();
 
-            isimler.Add(10);
+            isimler.Add("Oğuzhan");
         }
     }
 }
